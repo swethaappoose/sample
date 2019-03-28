@@ -5,3 +5,5 @@ echo "The current shell : $SHELL"
 echo "The current path: $PATH"
 echo "The current home directory : $HOME"
 echo "The current System Architecture : $(arch)"
+/eof
+
